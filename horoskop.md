@@ -1,4 +1,4 @@
-﻿BERAN
+﻿BERAN 
 Horoskop na měsíc DUBEN
 První polovina měsíce nebude ještě žádná hitparáda. Dobrou náladu vám bude kazit vaše náladovost a přehnaná podezíravost. Oprostěte se od těchto negativních vlastností a pocitů. V druhé půlce měsíce by se mělo vše dostávat do lepší roviny, napjaté vztahy se zlepší. Užívejte si potom všeho, co vám může Venuše a jiní vesmírní dárci poskytnout. Začíná doba, kdy byste měli začít pracovat sami na sobě.
 
@@ -15,3 +15,4 @@ Zdraví a kondice
 Vaše vleklé zdravotní potíže, které jste měli, začínají pomalu a jistě ustupovat. Tím, že jste také začali hodně sportovat a lépe se stravovat, přispěli jste ke své lepší psychické i fyzické kondici.
 
 THIS IS VERY GOOD HOROSCOPE, YOU CAN RELAY ON IT.
+THIS IS NOT VERY GOOD HOROSCOPE, I MISS IT PREDICTION:(
