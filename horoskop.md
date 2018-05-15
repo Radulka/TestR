@@ -15,8 +15,15 @@ Zdraví a kondice
 Vaše vleklé zdravotní potíže, které jste měli, začínají pomalu a jistě ustupovat. Tím, že jste také začali hodně sportovat a lépe se stravovat, přispěli jste ke své lepší psychické i fyzické kondici.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 STUDIUM IT - bude v roce 2018 nejlepsi
 =======
 THIS IS VERY GOOD HOROSCOPE, YOU CAN RELAY ON IT.
 THIS IS NOT VERY GOOD HOROSCOPE, I MISS IT PREDICTION:(
 >>>>>>> newbranch
+=======
+
+THIS IS VERY GOOD HOROSCOPE, YOU CAN RELAY ON IT.
+STUDIUM IT - bude v roce 2018 nejlepsi
+
+>>>>>>> 053496d2f97a4cbb9c69ba1c327b7fb513a2605e
