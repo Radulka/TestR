@@ -14,3 +14,4 @@ Vaše rodinné vztahy nemohou být lepší. Prožíváte společné chvíle, vý
 Zdraví a kondice
 Vaše vleklé zdravotní potíže, které jste měli, začínají pomalu a jistě ustupovat. Tím, že jste také začali hodně sportovat a lépe se stravovat, přispěli jste ke své lepší psychické i fyzické kondici.
 
+THIS IS VERY GOOD HOROSCOPE, YOU CAN RELAY ON IT.
