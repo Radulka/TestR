@@ -1,4 +1,4 @@
-﻿BERAN 
+﻿BERAN 3. DEKÁDA
 Horoskop na měsíc DUBEN
 První polovina měsíce nebude ještě žádná hitparáda. Dobrou náladu vám bude kazit vaše náladovost a přehnaná podezíravost. Oprostěte se od těchto negativních vlastností a pocitů. V druhé půlce měsíce by se mělo vše dostávat do lepší roviny, napjaté vztahy se zlepší. Užívejte si potom všeho, co vám může Venuše a jiní vesmírní dárci poskytnout. Začíná doba, kdy byste měli začít pracovat sami na sobě.
 
